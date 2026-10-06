@@ -6,16 +6,16 @@ Cada página del sitio tiene una versión HTML y una versión Markdown con el mi
 
 ## Empresa
 
-- [Inicio](https://vallenuevo.example/index.md): presentación de la empresa y secciones del sitio.
-- [Quiénes somos](https://vallenuevo.example/quienes-somos.md): actividad de la empresa, salones y zona de cobertura en Villa San Ernesto.
-- [Historia](https://vallenuevo.example/historia.md): fundación en 2011 y etapas de incorporación de los salones.
+- [Inicio](https://plum-moose-404696.hostingersite.com/index.md): presentación de la empresa y secciones del sitio.
+- [Quiénes somos](https://plum-moose-404696.hostingersite.com/quienes-somos.md): actividad de la empresa, salones y zona de cobertura en Villa San Ernesto.
+- [Historia](https://plum-moose-404696.hostingersite.com/historia.md): fundación en 2011 y etapas de incorporación de los salones.
 
 ## Salones
 
-- [Salones](https://vallenuevo.example/salones.md): nombre, aforo, dirección y equipamiento de los cuatro salones.
-- [Quincho](https://vallenuevo.example/quincho.md): aforo, ubicación, equipamiento y requisitos para reservar el Quincho Los Fundadores.
+- [Salones](https://plum-moose-404696.hostingersite.com/salones.md): nombre, aforo, dirección y equipamiento de los cuatro salones.
+- [Quincho](https://plum-moose-404696.hostingersite.com/quincho.md): aforo, ubicación, equipamiento y requisitos para reservar el Quincho Los Fundadores.
 
 ## Contacto y empleo
 
-- [Contacto](https://vallenuevo.example/contacto.md): teléfono, WhatsApp, correo electrónico y horario de atención.
-- [Trabaja con nosotros](https://vallenuevo.example/trabaja-con-nosotros.md): puestos abiertos y forma de postulación.
+- [Contacto](https://plum-moose-404696.hostingersite.com/contacto.md): teléfono, WhatsApp, correo electrónico y horario de atención.
+- [Trabaja con nosotros](https://plum-moose-404696.hostingersite.com/trabaja-con-nosotros.md): puestos abiertos y forma de postulación.
