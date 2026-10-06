@@ -1,12 +1,12 @@
-[Valle Nuevo Salones y Eventos S.R.L.](/index.md)
+[Valle Nuevo Salones y Eventos S.R.L.](index.md)
 
-- [Inicio](/index.md)
-- [Quiénes somos](/quienes-somos.md)
-- [Historia](/historia.md)
-- [Salones](/salones.md)
-- [Quincho](/quincho.md)
-- [Trabaja con nosotros](/trabaja-con-nosotros.md)
-- [Contacto](/contacto.md)
+- [Inicio](index.md)
+- [Quiénes somos](quienes-somos.md)
+- [Historia](historia.md)
+- [Salones](salones.md)
+- [Quincho](quincho.md)
+- [Trabaja con nosotros](trabaja-con-nosotros.md)
+- [Contacto](contacto.md)
 
 ---
 
@@ -31,11 +31,11 @@ El Quincho Los Fundadores es uno de los cuatro salones de Valle Nuevo Salones y 
 3. Abonar una seña del 30 por ciento del valor del alquiler por transferencia bancaria dentro de las 48 horas posteriores a la solicitud.
 4. Recibir la confirmación escrita, que se emite dentro de las 24 horas hábiles posteriores al pago de la seña.
 
-El número de WhatsApp y la dirección de correo electrónico para enviar el formulario figuran en la página [Contacto](/contacto.md).
+El número de WhatsApp y la dirección de correo electrónico para enviar el formulario figuran en la página [Contacto](contacto.md).
 
 ---
 
-[Ver esta página en formato Markdown](/quincho.md)
+[Ver esta página en formato Markdown](quincho.md)
 
 Código de referencia: VN-4058-DK
 

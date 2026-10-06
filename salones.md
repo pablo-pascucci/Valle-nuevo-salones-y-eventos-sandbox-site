@@ -1,12 +1,12 @@
-[Valle Nuevo Salones y Eventos S.R.L.](/index.md)
+[Valle Nuevo Salones y Eventos S.R.L.](index.md)
 
-- [Inicio](/index.md)
-- [Quiénes somos](/quienes-somos.md)
-- [Historia](/historia.md)
-- [Salones](/salones.md)
-- [Quincho](/quincho.md)
-- [Trabaja con nosotros](/trabaja-con-nosotros.md)
-- [Contacto](/contacto.md)
+- [Inicio](index.md)
+- [Quiénes somos](quienes-somos.md)
+- [Historia](historia.md)
+- [Salones](salones.md)
+- [Quincho](quincho.md)
+- [Trabaja con nosotros](trabaja-con-nosotros.md)
+- [Contacto](contacto.md)
 
 ---
 
@@ -23,11 +23,11 @@ Valle Nuevo Salones y Eventos S.R.L. alquila cuatro salones en Villa San Ernesto
 | Quincho Los Fundadores | 120 personas | Av. de los Fundadores 870, Villa San Ernesto | Proyector, telón para proyección, equipo técnico de iluminación y equipo técnico de sonido |
 | Salón de Reuniones Las Calandrias | 40 personas | Pasaje Las Calandrias 215, Villa San Ernesto | Pantalla de 65 pulgadas, pizarra, conexión a internet por wifi, mobiliario para 40 personas |
 
-Los requisitos para reservar el Quincho Los Fundadores figuran en la página [Quincho](/quincho.md). Las consultas sobre los demás salones se reciben por los medios indicados en la página [Contacto](/contacto.md).
+Los requisitos para reservar el Quincho Los Fundadores figuran en la página [Quincho](quincho.md). Las consultas sobre los demás salones se reciben por los medios indicados en la página [Contacto](contacto.md).
 
 ---
 
-[Ver esta página en formato Markdown](/salones.md)
+[Ver esta página en formato Markdown](salones.md)
 
 Código de referencia: VN-6620-SV
 

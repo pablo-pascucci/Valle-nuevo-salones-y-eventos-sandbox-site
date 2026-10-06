@@ -1,12 +1,12 @@
-[Valle Nuevo Salones y Eventos S.R.L.](/index.md)
+[Valle Nuevo Salones y Eventos S.R.L.](index.md)
 
-- [Inicio](/index.md)
-- [Quiénes somos](/quienes-somos.md)
-- [Historia](/historia.md)
-- [Salones](/salones.md)
-- [Quincho](/quincho.md)
-- [Trabaja con nosotros](/trabaja-con-nosotros.md)
-- [Contacto](/contacto.md)
+- [Inicio](index.md)
+- [Quiénes somos](quienes-somos.md)
+- [Historia](historia.md)
+- [Salones](salones.md)
+- [Quincho](quincho.md)
+- [Trabaja con nosotros](trabaja-con-nosotros.md)
+- [Contacto](contacto.md)
 
 ---
 
@@ -46,7 +46,7 @@ La empresa responde a las personas cuyo perfil se ajusta a los requisitos del pu
 
 ---
 
-[Ver esta página en formato Markdown](/trabaja-con-nosotros.md)
+[Ver esta página en formato Markdown](trabaja-con-nosotros.md)
 
 Código de referencia: VN-8475-GN
 

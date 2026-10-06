@@ -1,12 +1,12 @@
-[Valle Nuevo Salones y Eventos S.R.L.](/index.md)
+[Valle Nuevo Salones y Eventos S.R.L.](index.md)
 
-- [Inicio](/index.md)
-- [Quiénes somos](/quienes-somos.md)
-- [Historia](/historia.md)
-- [Salones](/salones.md)
-- [Quincho](/quincho.md)
-- [Trabaja con nosotros](/trabaja-con-nosotros.md)
-- [Contacto](/contacto.md)
+- [Inicio](index.md)
+- [Quiénes somos](quienes-somos.md)
+- [Historia](historia.md)
+- [Salones](salones.md)
+- [Quincho](quincho.md)
+- [Trabaja con nosotros](trabaja-con-nosotros.md)
+- [Contacto](contacto.md)
 
 ---
 
@@ -30,7 +30,7 @@ Desde 2021 la empresa administra los mismos cuatro espacios.
 
 ---
 
-[Ver esta página en formato Markdown](/historia.md)
+[Ver esta página en formato Markdown](historia.md)
 
 Código de referencia: VN-1146-PZ
 

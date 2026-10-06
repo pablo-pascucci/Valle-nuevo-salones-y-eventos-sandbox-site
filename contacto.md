@@ -1,12 +1,12 @@
-[Valle Nuevo Salones y Eventos S.R.L.](/index.md)
+[Valle Nuevo Salones y Eventos S.R.L.](index.md)
 
-- [Inicio](/index.md)
-- [Quiénes somos](/quienes-somos.md)
-- [Historia](/historia.md)
-- [Salones](/salones.md)
-- [Quincho](/quincho.md)
-- [Trabaja con nosotros](/trabaja-con-nosotros.md)
-- [Contacto](/contacto.md)
+- [Inicio](index.md)
+- [Quiénes somos](quienes-somos.md)
+- [Historia](historia.md)
+- [Salones](salones.md)
+- [Quincho](quincho.md)
+- [Trabaja con nosotros](trabaja-con-nosotros.md)
+- [Contacto](contacto.md)
 
 ---
 
@@ -32,7 +32,7 @@ Calle Los Aromos 1450, Villa San Ernesto. La administración funciona en el edif
 
 ---
 
-[Ver esta página en formato Markdown](/contacto.md)
+[Ver esta página en formato Markdown](contacto.md)
 
 Código de referencia: VN-5546-QA
 

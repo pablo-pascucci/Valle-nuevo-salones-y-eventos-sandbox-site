@@ -1,12 +1,12 @@
-[Valle Nuevo Salones y Eventos S.R.L.](/index.md)
+[Valle Nuevo Salones y Eventos S.R.L.](index.md)
 
-- [Inicio](/index.md)
-- [Quiénes somos](/quienes-somos.md)
-- [Historia](/historia.md)
-- [Salones](/salones.md)
-- [Quincho](/quincho.md)
-- [Trabaja con nosotros](/trabaja-con-nosotros.md)
-- [Contacto](/contacto.md)
+- [Inicio](index.md)
+- [Quiénes somos](quienes-somos.md)
+- [Historia](historia.md)
+- [Salones](salones.md)
+- [Quincho](quincho.md)
+- [Trabaja con nosotros](trabaja-con-nosotros.md)
+- [Contacto](contacto.md)
 
 ---
 
@@ -29,7 +29,7 @@ La empresa dispone de cuatro salones:
 - Quincho Los Fundadores, con aforo para 120 personas.
 - Salón de Reuniones Las Calandrias, con aforo para 40 personas.
 
-La dirección y el equipamiento de cada salón figuran en la página [Salones](/salones.md).
+La dirección y el equipamiento de cada salón figuran en la página [Salones](salones.md).
 
 ## Zona de cobertura
 
@@ -37,7 +37,7 @@ Los cuatro salones están ubicados dentro del ejido urbano de Villa San Ernesto,
 
 ---
 
-[Ver esta página en formato Markdown](/quienes-somos.md)
+[Ver esta página en formato Markdown](quienes-somos.md)
 
 Código de referencia: VN-7704-XD
 

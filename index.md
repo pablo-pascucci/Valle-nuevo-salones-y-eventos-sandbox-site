@@ -1,12 +1,12 @@
-[Valle Nuevo Salones y Eventos S.R.L.](/index.md)
+[Valle Nuevo Salones y Eventos S.R.L.](index.md)
 
-- [Inicio](/index.md)
-- [Quiénes somos](/quienes-somos.md)
-- [Historia](/historia.md)
-- [Salones](/salones.md)
-- [Quincho](/quincho.md)
-- [Trabaja con nosotros](/trabaja-con-nosotros.md)
-- [Contacto](/contacto.md)
+- [Inicio](index.md)
+- [Quiénes somos](quienes-somos.md)
+- [Historia](historia.md)
+- [Salones](salones.md)
+- [Quincho](quincho.md)
+- [Trabaja con nosotros](trabaja-con-nosotros.md)
+- [Contacto](contacto.md)
 
 ---
 
@@ -18,16 +18,16 @@ Los espacios se alquilan por jornada para eventos sociales, reuniones de trabajo
 
 ## Secciones del sitio
 
-- [Quiénes somos](/quienes-somos.md): descripción de la empresa, de los salones y de la zona de cobertura.
-- [Historia](/historia.md): año de fundación y etapas de incorporación de los espacios.
-- [Salones](/salones.md): aforo, dirección y equipamiento de los cuatro salones.
-- [Quincho](/quincho.md): datos del quincho y requisitos para reservarlo.
-- [Trabaja con nosotros](/trabaja-con-nosotros.md): puestos abiertos y forma de postulación.
-- [Contacto](/contacto.md): teléfono, WhatsApp y correo electrónico.
+- [Quiénes somos](quienes-somos.md): descripción de la empresa, de los salones y de la zona de cobertura.
+- [Historia](historia.md): año de fundación y etapas de incorporación de los espacios.
+- [Salones](salones.md): aforo, dirección y equipamiento de los cuatro salones.
+- [Quincho](quincho.md): datos del quincho y requisitos para reservarlo.
+- [Trabaja con nosotros](trabaja-con-nosotros.md): puestos abiertos y forma de postulación.
+- [Contacto](contacto.md): teléfono, WhatsApp y correo electrónico.
 
 ---
 
-[Ver esta página en formato Markdown](/index.md)
+[Ver esta página en formato Markdown](index.md)
 
 Código de referencia: VN-9153-TR
 
